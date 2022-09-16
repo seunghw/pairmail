@@ -5,7 +5,7 @@ import { data } from "./data/data";
 
 function App() {
   const [userId, setUserId] = useState("");
-  let [userEmail, setUserEmail] = useState("클릭 시 복사됩니다!");
+  let [userEmail, setUserEmail] = useState("페어의 이메일은?");
 
   const findUserEmail = (userId) => {
     let result = data.find((a) => a.name === userId);
@@ -52,6 +52,10 @@ function App() {
           >
             검색
           </button>
+        </div>
+
+        <div className="font-semibold text-3xl my-3">
+          👇 누르시면 복사 됩니다! 👇
         </div>
         <div>
           <CopyToClipboard
