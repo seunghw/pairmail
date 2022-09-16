@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pairmail/static/css/main.da913726.css",
+    "main.js": "/pairmail/static/js/main.aaaa5f68.js",
+    "index.html": "/pairmail/index.html",
+    "main.da913726.css.map": "/pairmail/static/css/main.da913726.css.map",
+    "main.aaaa5f68.js.map": "/pairmail/static/js/main.aaaa5f68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da913726.css",
+    "static/js/main.aaaa5f68.js"
+  ]
+}
