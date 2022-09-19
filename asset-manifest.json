@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pairmail/static/css/main.28d2a814.css",
-    "main.js": "/pairmail/static/js/main.36544431.js",
+    "main.js": "/pairmail/static/js/main.18d8cfe5.js",
     "index.html": "/pairmail/index.html",
     "main.28d2a814.css.map": "/pairmail/static/css/main.28d2a814.css.map",
-    "main.36544431.js.map": "/pairmail/static/js/main.36544431.js.map"
+    "main.18d8cfe5.js.map": "/pairmail/static/js/main.18d8cfe5.js.map"
   },
   "entrypoints": [
     "static/css/main.28d2a814.css",
-    "static/js/main.36544431.js"
+    "static/js/main.18d8cfe5.js"
   ]
 }
