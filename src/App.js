@@ -74,6 +74,26 @@ function App() {
             <div>{userEmail}</div>
           </CopyToClipboard>
         </div>
+        <p className="my-10 font-thin text-zinc-800">
+          Last Update : 2022.09.26
+        </p>
+        <ul className="font-semibold text-md">
+          <span className="mx-5">
+            <a
+              href="https://github.com/seunghw"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Github
+            </a>
+          </span>
+          <span className="mx-5">
+            <a href="https://velog.io/@seunghw">Blog</a>
+          </span>
+          <span className="mx-5">
+            <a href="mailto:ysp1307@naver.com?ysp1307@naver.com">Email</a>
+          </span>
+        </ul>
       </div>
     </div>
   );
