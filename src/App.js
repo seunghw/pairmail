@@ -47,11 +47,19 @@ function App() {
           ></input>
 
           <button
-            className="outline outline-offset-2 font-semibold hover:text-white focus:outline:none hover:bg-blue-500 outline-blue-500 w-32 rounded-xl shadow-xl transition duration-300 ease-in-out"
+            className="outline outline-offset-2 font-semibold hover:text-white focus:outline:none hover:bg-blue-500 outline-blue-500 w-32 rounded-xl shadow-xl transition duration-300 ease-in-out mx-3"
             onClick={handleOnClick}
           >
             검색
           </button>
+          <a
+            className="outline outline-offset-2 font-semibold flex justify-center items-center hover:text-white focus:outline:none hover:bg-blue-500 outline-blue-500 w-32 rounded-xl shadow-xl transition duration-300 ease-in-out mx-3"
+            href="https://urclass.codestates.com/content/b203c093-d0ed-4fb1-90a3-e5101733ff18?playlist=1813"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            리뷰하러가기
+          </a>
         </div>
 
         <div className="font-semibold text-3xl my-3">
